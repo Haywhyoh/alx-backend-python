@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""The basics of async"""
+""" The basics of asyn c"""
 import random
 import asyncio
 
